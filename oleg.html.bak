@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<title>
+			Я Олег.
+		</title>
+		<link rel="icon" href="img/1.jpg">
+	</head>
+	<body>
+	<body bgcolor="#DDA0DD">
+		<div class="all">
+			<div class="header">
+				<div class="menu">
+							<a href="#o">О</a>
+							<a href="#l">Л</a>
+							<a href="#e">Е</a>
+							<a href="#g">Г</a>
+							<a href="#p">Паша</a>
+				</div>
+			</div>
+					<h1>Я Олег, а не Вася</h1>
+						<div class="row">
+							<div class="col-md-6">
+								<p>
+								<br>                                                              
+								<embed src="олег.mp3" width="100" height="50" align="left" hidden="False" autostart="True" loop="True">							
+								<br>                                                              
+								<br>                                                              
+								<br>  
+								<br>                                                              
+								<br>Я не Гриша, не Паша, не Рома, не Егор, не Алиса, не Евлампий,
+								<br>не Намхай, не Лиза, не Тимофей, не Алена, не Артем, не Владик,
+								<br>не Сережа, не Илья, не Саша, не Даня, не Диана, а я Олег!		
+								<br>                                                              
+								<br>                                                              
+								<br>                                                              
+								<img src="img/7.jpg" width="330" height="330"> <img src="img/8.jpg" width="330" height="330"> <img src="img/9.jpg" width="330" height="330"> <img src="img/10.jpg" width="330" height="330">							
+								<br>                                                              
+								<br>                                                              
+								<br>                                                                                                                         
+								<br>                                                              
+								<br>                                                              
+                                                            
+                                                        
+								</p>
+							</div>
+						</div>
+				</div>
+			</div>
+			
+			
+			<div class="o" id="o">									
+									<h3>О</h3>
+							<a href=""><div class="col-md-4">
+								<div class="foto">
+									<img src="img/2.jpg" width="1400" height="600">
+			<div class="l" id="l">							
+									<h3>Л</h3>
+							<a href=""><div class="col-md-4">
+								<div class="foto">
+									<img src="img/3.jpg" width="1400" height="600">
+			<div class="e" id="e">																
+									<h3>Е</h3>
+							<a href=""><div class="col-md-4">
+								<div class="foto">
+									<img src="img/4.jpg" width="1400" height="600">
+			<div class="g" id="g">																
+									<h3>Г</h3>
+							<a href=""><div class="col-md-4">
+								<div class="foto">
+									<img src="img/5.jpg" width="1400" height="600">
+			<div class="p" id="p">																
+									<h3>А это мы с Пашей и мы с ним дружим</h3>
+							<a href=""><div class="col-md-4">
+								<div class="foto">
+									<img src="img/11.jpg" width="1400" height="600">
